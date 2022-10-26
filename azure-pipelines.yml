@@ -9,7 +9,7 @@ trigger:
 - master
 
 pool:
-  name: 'Demo'
+  name: 'Hosted Agent'
 
 variables:
   buildConfiguration: 'Release'
